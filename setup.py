@@ -1,5 +1,8 @@
 from setuptools import setup
 
+
+
+ 
 setup(name= "systeminfo",
       version="0.1",
       description= "Basic system information for comp30670", 
@@ -9,6 +12,6 @@ setup(name= "systeminfo",
       licence="GPL3", 
       packages= ['systeminfo'],
       entry_points ={
-          'console_scripts':['comp30670_systeminfo=systeminfo.main:main']
+          'console_scripts':['comp30670_workspace_systeminfo=systeminfo.main:main']
           }
     )

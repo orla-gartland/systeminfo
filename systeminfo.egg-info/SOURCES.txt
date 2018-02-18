@@ -1,3 +1,4 @@
+setup.py
 systeminfo/__init__.py
 systeminfo/main.py
 systeminfo.egg-info/PKG-INFO
