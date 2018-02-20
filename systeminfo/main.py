@@ -5,7 +5,7 @@ Created on 30 Jan 2018
 '''
 import platform
 
-def main():
+def get_info():
     print(platform.platform())
     return 
 
